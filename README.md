@@ -33,24 +33,6 @@ The main goal of this project is to help farmers make better crop selection deci
 
 ---
 
-## 📂 Project Structure
-
-```
-OptiCrop/
-│── app.py
-│── model/
-│   ├── model.pkl
-│   └── scaler.pkl
-│
-│── templates/
-│── static/
-│── data/
-│── notebooks/
-│── requirements.txt
-```
-
----
-
 ## ⚙️ How It Works
 
 1. Open the web application.
