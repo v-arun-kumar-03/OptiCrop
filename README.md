@@ -122,13 +122,23 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-Add screenshots of your project here.
 
-Example:
 
 - Home Page
+
+- <img width="1536" height="851" alt="Image" src="https://github.com/user-attachments/assets/2a2b8dd2-02df-420f-aef7-75487d345ace" />
+
+-About Page
+
+<img width="1536" height="838" alt="Image" src="https://github.com/user-attachments/assets/13928425-7866-45fd-846f-bb006d3b15ee" />
+
 - Crop Recommendation Page
+
+<img width="1525" height="852" alt="Image" src="https://github.com/user-attachments/assets/d7f559f5-d49c-48c0-ba24-453157316540" />
+
 - Prediction Result
+
+- <img width="1530" height="852" alt="Image" src="https://github.com/user-attachments/assets/d0a71d77-d043-4ca2-b78a-5af35eb38856" />
 
 ---
 
