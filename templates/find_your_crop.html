@@ -6,8 +6,10 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
+
   <nav class="navbar">
     <div class="logo">🌱 OptiCrop</div>
+
     <div class="nav-links">
       <a href="{{ url_for('home') }}">Home</a>
       <a href="{{ url_for('about') }}">About</a>
@@ -16,30 +18,69 @@
   </nav>
 
   <section class="content">
+
     <h2>Enter Soil & Environmental Details</h2>
+
     <form method="POST" class="crop-form">
+
       <label>Nitrogen (N)</label>
-      <input type="number" step="any" name="nitrogen" required>
+      <input
+        type="number"
+        step="any"
+        name="nitrogen"
+        value="{{ values.nitrogen }}"
+        required>
 
       <label>Phosphorous (P)</label>
-      <input type="number" step="any" name="phosphorous" required>
+      <input
+        type="number"
+        step="any"
+        name="phosphorous"
+        value="{{ values.phosphorous }}"
+        required>
 
       <label>Potassium (K)</label>
-      <input type="number" step="any" name="potassium" required>
+      <input
+        type="number"
+        step="any"
+        name="potassium"
+        value="{{ values.potassium }}"
+        required>
 
       <label>Temperature (°C)</label>
-      <input type="number" step="any" name="temperature" required>
+      <input
+        type="number"
+        step="any"
+        name="temperature"
+        value="{{ values.temperature }}"
+        required>
 
       <label>Humidity (%)</label>
-      <input type="number" step="any" name="humidity" required>
+      <input
+        type="number"
+        step="any"
+        name="humidity"
+        value="{{ values.humidity }}"
+        required>
 
       <label>pH Level</label>
-      <input type="number" step="any" name="ph" required>
+      <input
+        type="number"
+        step="any"
+        name="ph"
+        value="{{ values.ph }}"
+        required>
 
       <label>Rainfall (mm)</label>
-      <input type="number" step="any" name="rainfall" required>
+      <input
+        type="number"
+        step="any"
+        name="rainfall"
+        value="{{ values.rainfall }}"
+        required>
 
       <button type="submit" class="btn">Predict Crop</button>
+
     </form>
 
     {% if prediction %}
@@ -47,6 +88,8 @@
       <h3>Recommended Crop: {{ prediction }}</h3>
     </div>
     {% endif %}
+
   </section>
+
 </body>
 </html>

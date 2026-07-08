@@ -1,0 +1,750 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10009
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F2 13 Tf 15.6 TL ET
+.180392 .52549 .670588 rg
+BT 1 0 0 1 48.18898 805.0394 Tm (SMARTBRIDGE) Tj T* ET
+BT /F3 7 Tf 8.4 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 48.18898 795.1181 Tm (Let's Bridge the Gap) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+.105882 .105882 .105882 rg
+BT 1 0 0 1 451.7576 805.0394 Tm (SKILL WALLET) Tj T* ET
+BT /F3 6.5 Tf 7.8 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 480.6176 795.1181 Tm (A SmartBridge Product) Tj T* ET
+.8 .8 .8 RG
+n 48.18898 788.0315 m 547.0866 788.0315 l S
+Q
+q
+1 0 0 1 54.18898 748.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 155.8728 0 Td (Project Demo Planning) Tj T* -155.8728 0 Td ET
+Q
+Q
+q
+1 0 0 1 70.86614 646.6929 cm
+q
+.94902 .94902 .94902 rg
+n 0 88 119.0551 -88 re f*
+0 0 0 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 8 73.5 Tm (Date) Tj T* ET
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 127.0551 73.5 Tm (03 July 2026) Tj T* ET
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 8 51.5 Tm (Team ID) Tj T* ET
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 127.0551 51.5 Tm (N/A) Tj T* ET
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 8 29.5 Tm (Project Name) Tj T* ET
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 127.0551 29.5 Tm (OptiCrop \226 Smart Agricultural Production Optimization Engine) Tj T* ET
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 8 7.5 Tm (Maximum Marks) Tj T* ET
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 127.0551 7.5 Tm (1 Mark) Tj T* ET
+q
+1 J
+1 j
+.6 .6 .6 RG
+.75 w
+n 0 88 m 453.5433 88 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 88 l S
+n 453.5433 0 m 453.5433 88 l S
+n 0 66 m 453.5433 66 l S
+n 0 44 m 453.5433 44 l S
+n 0 22 m 453.5433 22 l S
+n 119.0551 0 m 119.0551 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 632.6929 cm
+Q
+q
+1 0 0 1 54.18898 604.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (Project Demo Planning:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 570.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (This document outlines the plan for demonstrating OptiCrop, including the flow of the demo, key features to) Tj T* (highlight, and timing for each section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 560.6929 cm
+Q
+q
+1 0 0 1 63.77953 240.6929 cm
+q
+.94902 .94902 .94902 rg
+n 0 320 467.7165 -35 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F2 9 Tf 12.5 TL (S.) Tj T* (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 302.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9 Tf 12.5 TL (Demo Section) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 302.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9 Tf 12.5 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F2 9 Tf 12.5 TL (Duration) Tj T* (\(mins\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F2 9 Tf 12.5 TL (Responsible) Tj T* (Member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 267.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 255 cm
+q
+BT 1 0 0 1 0 16 Tm 12.5 TL /F1 9 Tf 0 0 0 rg (Introduction & Problem) Tj T* (Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 242.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F1 9 Tf 12.5 TL (Explain the agricultural problem \227 farmers) Tj T* (struggling to choose the right crop for their) Tj T* (soil/climate \227 and OptiCrop's goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 267.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 267.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL ([Your Name]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 220 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 207.5 cm
+q
+BT 1 0 0 1 0 16 Tm 12.5 TL /F1 9 Tf 0 0 0 rg (Dataset & EDA) Tj T* (Walkthrough) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F1 9 Tf 12.5 TL (Show the crop dataset and key visualizations) Tj T* (\(feature distributions, humidity vs. crop,) Tj T* (correlation heatmap\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 220 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 220 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL ([Your Name]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 172.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 160 cm
+q
+BT 1 0 0 1 0 16 Tm 12.5 TL /F1 9 Tf 0 0 0 rg (Model Building &) Tj T* (Comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 41 Tm /F1 9 Tf 12.5 TL (Walk through training KNN, Logistic) Tj T* (Regression, Decision Tree, and Random) Tj T* (Forest, and comparing their) Tj T* (accuracy/precision/recall/F1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 172.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 172.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL ([Your Name]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 112.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (Live Application Demo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 87.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F1 9 Tf 12.5 TL (Open the Flask app, enter sample) Tj T* (N/P/K/temperature/humidity/pH/rainfall values,) Tj T* (and get a live crop recommendation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 112.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 112.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL ([Your Name]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 52.5 cm
+q
+BT 1 0 0 1 0 16 Tm 12.5 TL /F1 9 Tf 0 0 0 rg (Code & Architecture) Tj T* (Walkthrough) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F1 9 Tf 12.5 TL (Briefly show the project structure \(data/,) Tj T* (model/, templates/, app.py\) and how the model) Tj T* (is loaded and used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL ([Your Name]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 17.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 27.67717 5 cm
+q
+BT 1 0 0 1 0 16 Tm 12.5 TL /F1 9 Tf 0 0 0 rg (Scalability & Future Plan) Tj T* (+ Q) Tj (&A;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.063 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F1 9 Tf 12.5 TL (Summarize current limitations, the future) Tj T* (roadmap, and open the floor for questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339.4882 17.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 396.1811 17.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL ([Your Name]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.75 w
+n 0 320 m 467.7165 320 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 320 l S
+n 467.7165 0 m 467.7165 320 l S
+n 0 285 m 467.7165 285 l S
+n 0 237.5 m 467.7165 237.5 l S
+n 0 190 m 467.7165 190 l S
+n 0 130 m 467.7165 130 l S
+n 0 82.5 m 467.7165 82.5 l S
+n 0 35 m 467.7165 35 l S
+n 22.67717 0 m 22.67717 320 l S
+n 136.063 0 m 136.063 320 l S
+n 334.4882 0 m 334.4882 320 l S
+n 391.1811 0 m 391.1811 320 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 224.6929 cm
+Q
+q
+1 0 0 1 54.18898 202.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F4 10 Tf 14 TL (Demo Flow Summary:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.77953 71.19291 cm
+q
+.94902 .94902 .94902 rg
+n 0 127.5 467.7165 -22.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 110 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9 Tf 12.5 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.01575 110 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9 Tf 12.5 TL (Activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 110 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9 Tf 12.5 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 87.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.01575 75 cm
+q
+BT 1 0 0 1 0 16 Tm 12.5 TL /F1 9 Tf 0 0 0 rg (Introduction & Problem) Tj T* (Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F1 9 Tf 12.5 TL (Keep it brief \227 set up why crop selection matters before diving into the) Tj T* (solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 52.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.01575 52.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (Solution Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F1 9 Tf 12.5 TL (Cover the ML approach \(multi-algorithm comparison\) and the Flask) Tj T* (app architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 17.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.01575 17.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9 Tf 12.5 TL (Live Feature Demonstration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16 Tm /F1 9 Tf 12.5 TL (Run at least 2\2263 different input combinations to show varied, correct) Tj T* (predictions) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.75 w
+n 0 127.5 m 467.7165 127.5 l S
+n 0 0 m 0 127.5 l S
+n 467.7165 0 m 467.7165 127.5 l S
+n 0 0 m 467.7165 0 l S
+n 0 105 m 467.7165 105 l S
+n 0 70 m 467.7165 70 l S
+n 0 35 m 467.7165 35 l S
+n 34.01575 0 m 34.01575 127.5 l S
+n 175.748 0 m 175.748 127.5 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+455.5 505.3299 68.4 17.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 465.3855 516.1299 Tm
+(Vandrasi Durga) Tj
+T*
+ET
+BT
+1 0 0 1 471.612 507.1299 Tm
+(Arun kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+455.5 457.8299 68.4 17.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 465.3855 468.6299 Tm
+(Vandrasi Durga) Tj
+T*
+ET
+BT
+1 0 0 1 471.612 459.6299 Tm
+(Arun kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+455.5 410.3299 68.4 17.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 465.3855 421.1299 Tm
+(Vandrasi Durga) Tj
+T*
+ET
+BT
+1 0 0 1 471.612 412.1299 Tm
+(Arun kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+455.5 350.3299 68.4 17.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 465.3855 361.1299 Tm
+(Vandrasi Durga) Tj
+T*
+ET
+BT
+1 0 0 1 471.612 352.1299 Tm
+(Arun kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+455.5 302.8299 68.4 17.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 465.3855 313.6299 Tm
+(Vandrasi Durga) Tj
+T*
+ET
+BT
+1 0 0 1 471.612 304.6299 Tm
+(Arun kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+455.5 255.3299 68.4 17.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 465.3855 266.1299 Tm
+(Vandrasi Durga) Tj
+T*
+ET
+BT
+1 0 0 1 471.612 257.1299 Tm
+(Arun kumar) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 739
+>>
+stream
+Gat=(9lldX&A@Zcp=)-k<7N1G`:RS9*D]kmWGQ6nab9eQaV^3CDT;]?Mek'Y]4j'/CU>2Pl0YW=i:N]<O"u5W!$ABVd"^Hgcs[Ce5"l(E[q.Z[TJ.G/gk1BUk/+HU8R"4s0NW7n2&,e-"s2\C9juc)TXeSI:9YUpQJ]]?@'[<<4I]YBn,U:9%;:P#W1$5c#@N^ik9:>d1H`gD$rNeYnWW6d$'QQmmh;X#$-^9,+lQ"([1Z@q=9k''R?G]58Gd_nqs\[nqpXK"2ODOS9/6C;l8WjIW-[aKYfstY3lq1qjRG..3h/UDIhsnVe#AG[FBk&lJTMUdg3&Ib2(Yji28*FA"]If]>sZ<RZTT3BE\l&33#/="d$ZhW,Sc/X>f@Dg&jFr+D2SPb/hLs+pX79iEDq+o*OUWeo(elURtC%KMRnb7BqDehW!tpj^Il'HT(fStO)^ELc/@W\9)k^;mOSBE#c8U?<rDE3Q'>pt-"($2If[OiYk*04NnC6P)l+7\3<5$##(,u[r!AZ\=f2#WeaiW<"M1Kg9G/8<0]#*\6_'Ii[O`TFj(&VH.SlfBDF[L'*A#'%S7cf3(J.cc?<fc9<[!_'[YU*Ik%#\DJhd\biNI>t%>DiF\2dRb0D'Uqke"'KkoS63LSs1"B?*:sqtg0=:/SWJho:XI1kmncS:bNm]Gi!iLn11[q9+$A*-uK"mB/g48t#sPJ7d:#[lM)/+GT-nP:`5!9)X;5%'J]-Rf~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000433 00000 n 
+0000010495 00000 n 
+0000010602 00000 n 
+0000010709 00000 n 
+0000010821 00000 n 
+0000010936 00000 n 
+0000011056 00000 n 
+0000011258 00000 n 
+0000012089 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+12152
+%%EOF
