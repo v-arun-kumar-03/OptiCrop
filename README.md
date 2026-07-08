@@ -1,63 +1,147 @@
-## Tech Stack
+# 🌱 OptiCrop - Crop Recommendation System
 
-- **Language:** Python 3.10+
-- **Backend:** Flask
-- **ML Libraries:** scikit-learn (KNN, Logistic Regression, Decision Tree, Random Forest, K-Means)
-- **Data Processing:** Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
-- **Model Persistence:** Pickle
-- **Frontend:** HTML5, CSS3
-- **Dev Tools:** Jupyter Notebook, Git/GitHub
+## 📖 About the Project
 
-## Features
+OptiCrop is a simple Machine Learning and Flask-based web application that recommends the most suitable crop based on soil and environmental conditions.
 
-- Crop recommendation from 7 soil/environmental parameters
-- Comparison of 4 ML algorithms with accuracy/precision/recall/F1 evaluation
-- Best model (Random Forest) persisted for instant reuse
-- Simple, responsive web interface (Home, About, Find Your Crop)
-- Seasonal crop grouping (Summer/Winter/Rainy)
+The user enters values such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. The application processes these inputs using a trained Machine Learning model and predicts the best crop for cultivation.
 
-## Setup & Run Instructions
+The main goal of this project is to help farmers make better crop selection decisions using data.
+
+---
+
+## 🚀 Features
+
+- Crop recommendation based on soil nutrients
+- User-friendly web interface
+- Machine Learning prediction
+- Fast and simple to use
+- Built using Python and Flask
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- NumPy
+- Pickle
+- Machine Learning
+
+---
+
+## 📂 Project Structure
+
+```
+OptiCrop/
+│── app.py
+│── model/
+│   ├── model.pkl
+│   └── scaler.pkl
+│
+│── templates/
+│── static/
+│── data/
+│── notebooks/
+│── requirements.txt
+```
+
+---
+
+## ⚙️ How It Works
+
+1. Open the web application.
+2. Enter the required soil and environmental values.
+3. Click the **Predict** button.
+4. The Flask backend receives the input.
+5. The trained Machine Learning model predicts the most suitable crop.
+6. The predicted crop is displayed on the screen.
+
+---
+
+## 📊 Input Parameters
+
+The model uses the following inputs:
+
+- Nitrogen (N)
+- Phosphorus (P)
+- Potassium (K)
+- Temperature
+- Humidity
+- pH Value
+- Rainfall
+
+---
+
+## 💻 Installation
+
+Clone the repository
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/v-arun-kumar-03/OptiCrop.git
+git clone https://github.com/your-username/OptiCrop.git
+```
+
+Go to the project folder
+
+```bash
 cd OptiCrop
+```
 
-# 2. Create and activate a virtual environment
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # macOS/Linux
+Install the required packages
 
-# 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# 4. Train the model (generates model.pkl and scaler.pkl)
-python train_model.py
+Run the application
 
-# 5. Run the application
+```bash
 python app.py
+```
 
-# 6. Open in browser
+Open your browser and visit
+
+```
 http://127.0.0.1:5000
 ```
 
-## Dataset
+---
 
-A representative crop-recommendation dataset (2,200 records, 22 crop classes) structured with columns: `N, P, K, temperature, humidity, ph, rainfall, label`, modeled on the Kaggle "Smart Agricultural Production Optimizing Engine" dataset.
+## 🎯 Future Improvements
 
-## Known Limitations
+- Weather API integration
+- Fertilizer recommendation
+- Disease detection
+- Multi-language support
+- Mobile application
 
-- Flask's development server is single-threaded (not production-scale)
-- No authentication (public, stateless prediction tool)
-- Dataset is representative/synthetic, not large-scale real-world sensor data
+---
 
-## Future Scope
+## 📸 Screenshots
 
-- Live weather API integration for real-time rainfall/temperature input
-- Researcher/policymaker dashboard for regional trend analysis
-- Cloud deployment with a production WSGI server
+Add screenshots of your project here.
 
-## License
+Example:
 
-This project is for educational purposes as part of the SmartBridge / SkillWallet AI-ML-and-GEN-AI Track.
+- Home Page
+- Crop Recommendation Page
+- Prediction Result
+
+---
+
+## 👨‍💻 Author
+
+**Vandrasi Durga Arun Kumar**
+
+Artificial Intelligence and Data Science (AI & DS)
+
+Laki Reddy Bali Reddy College of Engineering
+
+---
+
+## 📜 License
+
+This project is developed for learning and educational purposes.
