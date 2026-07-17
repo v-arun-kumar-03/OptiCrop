@@ -68,7 +68,7 @@ The model uses the following inputs:
 
 ---
 
-## 📸 Screenshots
+## Output
 
 
 
